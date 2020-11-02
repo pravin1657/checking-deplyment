@@ -1,0 +1,31 @@
+body {
+  margin: 0px;
+  font-family: "Courier New", Courier, monospace;
+  min-width: 100%;
+}
+
+.section1 {
+  width: 100%;
+  min-height: 400px;
+  color: red;
+  position: relative;
+}
+.section1 img {
+  width: 100%;
+}
+
+.section1 .text {
+  position: absolute;
+  top: 50px;
+  width: 100%;
+  font-weight: bold;
+  font-family: "Times New Roman", Times, serif;
+  color: gainsboro;
+}
+.data {
+  background-color: gainsboro;
+}
+
+.contact {
+  background-color: cornflowerblue;
+}
